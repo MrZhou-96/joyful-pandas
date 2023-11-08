@@ -1,6 +1,6 @@
 # Joyful-Pandas
 
-【本教程与Pandas官方最新发行版本保持同步，当前版本：[v-1.0.3](<https://github.com/pandas-dev/pandas/releases>)】
+【本教程与Pandas官方最新发行版本保持同步，当前版本：[v-1.0.3](<https://github.com/pandas-dev/pandas/releases>)】xxx
 
 #### 一、写作初衷
 
